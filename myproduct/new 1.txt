@@ -1,0 +1,77 @@
+<div class="halo-row-item grid-item col-6 col-md-4">
+                                          <div class="product-card">
+                                    <div class="product-card-top">
+									
+									
+									<div class="card__badge badge-left">
+                                            <span class="badge sale-badge" aria-hidden="true">Sale</span>
+                                            <span class="badge custom-badge" aria-hidden="true">Must Have</span>
+                                        </div>	
+										
+										
+                                        <div class="product-card-media">
+                                            <a href="PRO19.html" class="animate-scale image image-adapt" style="padding-bottom: 133.33333333333334%">
+                                                <img src="./myproduct/kurti/PRO19/IMG01.jpeg" alt="SMARTPATEL">
+                                                <img src="./myproduct/kurti/PRO19/IMG02.jpeg" alt="SMARTPATEL">
+                                            </a>
+                                            <div class="card-product__group group-right">
+                                             
+                                             
+                                            </div>
+                                            <div class="card-action">
+                                                <form action="./cart/add.html" method="post" class="variants" data-product-id="" enctype="multipart/form-data">
+                                                    <a class="button button-ATC text-center" href="PRO19.html" data-quickshop-popup="">BUY NOW</a>
+                                                </form>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="product-card-bottom">
+                                        <div class="product-card-information text-center">
+                                            <div class="card-vendor uppercase">
+                                                <a href="#" title="Anna" tabindex="0">Sodling</a>
+                                            </div>
+                                            <a href="PRO19.html" class="card-title link-underline card-title-ellipsis">
+                                                  <span class="text">#20 Look straight out of a dreamy movie set as   <span data-change-title> - perpole</span></span>
+                                                    </a>
+                                                    <div class="card-summary card-grid-hide desc">
+                                                       
+                                                    </div>
+                                                    <div class="card-price price__sale">
+                                                        <div class="price-item">
+                                                            <span class="money">₹1199</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                       
+                                        <div class="card-swatch text-center clearfix">
+                                            <ul class="swatch list-unstyled">
+                                                <li class="item">
+                                                    <label  class="swatch-label is-active" data-value="Blue" data-variant-id>
+                                                        <span class="pattern" style="background-color: #4b6cc0">
+                                                        </span>
+                                                    </label>
+                                                </li>
+                                                <li class="item">
+                                                    <label  class="swatch-label" data-value="Green" data-variant-id>
+                                                        <span class="pattern" style="background-color: Green">
+                                                        </span>
+                                                    </label>
+                                                </li>
+                                                <li class="item">
+                                                    <label  class="swatch-label" data-value="black" data-variant-id>
+                                                        <span class="pattern" style="background-color: black">
+                                                        </span>
+                                                    </label>
+                                                </li>
+
+                                                <li class="item">
+                                                    <label  class="swatch-label" data-value="orange" data-variant-id>
+                                                        <span class="pattern" style="background-color: moccasin">
+                                                        </span>
+                                                    </label>
+                                                </li>
+                                            </ul>
+                                        </div>									   									   									   									   									   
+                                    </div>
+                                </div>
+                                    </div>

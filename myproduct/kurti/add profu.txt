@@ -1,0 +1,58 @@
+<div class="halo-row-item product-item col-6 col-md-4 col-lg-3">
+                                <div class="product-card">
+                                    <div class="product-card-top">
+                                        <div class="product-card-media">
+                                            <a href="pro1.html" class="animate-scale image image-adapt" style="padding-bottom: 133.33333333333334%">
+                                                <img src="./myproduct/kurti/PRO1/IMG05.jpeg" alt="SMARTPATEL">
+                                                <img src="./myproduct/kurti/PRO1/IMG02.jpeg" alt="SMARTPATEL">
+                                            </a>
+                                            <div class="card-product__group group-right">
+                                             
+                                             
+                                            </div>
+                                            <div class="card-action">
+                                                <form action="./cart/add.html" method="post" class="variants" data-product-id="" enctype="multipart/form-data">
+                                                    <a class="button button-ATC text-center" href="pro1.html" data-quickshop-popup="">BUY NOW</a>
+                                                </form>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="product-card-bottom">
+                                        <div class="product-card-information text-center">
+                                            <div class="card-vendor uppercase">
+                                                <a href="#" title="Anna" tabindex="0">Sodling</a>
+                                            </div>
+                                            <a href="pro1.html" class="card-title link-underline card-title-ellipsis">
+                                                <span class="text">Yellow Lahenga  Choli  (Full Stitched)<span data-change-title> - Yellow</span></span>
+                                            </a>
+                                            <div class="card-price">
+                                                <div class="price-item">
+                                                    <span class="money">₹2899</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="card-swatch text-center clearfix">
+                                            <ul class="swatch list-unstyled">
+                                                <li class="item">
+                                                    <label  class="swatch-label is-active" data-value="Yellow" data-variant-id>
+                                                        <span class="pattern" style="background-color: #4b6cc0">
+                                                        </span>
+                                                    </label>
+                                                </li>
+                                                <li class="item">
+                                                    <label  class="swatch-label" data-value="Green" data-variant-id>
+                                                        <span class="pattern" style="background-color: mediumseagreen">
+                                                        </span>
+                                                    </label>
+                                                </li>
+                                                <li class="item">
+                                                    <label  class="swatch-label" data-value="orange" data-variant-id>
+                                                        <span class="pattern" style="background-color: moccasin">
+                                                        </span>
+                                                    </label>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>

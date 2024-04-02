@@ -1,0 +1,3 @@
+534 x 712
+
+PRO1 ./myproduct/kurti/PRO1/IMG01.jpeg REPLASE
